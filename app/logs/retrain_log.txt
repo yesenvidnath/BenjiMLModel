@@ -1,0 +1,163 @@
+2024-12-18 07:17:58,101 - Retrain scheduler started. Running every 24 hours...
+2024-12-18 07:23:22,787 - Triggering initial retrain process...
+2024-12-18 07:23:22,788 - Starting full retrain process...
+2024-12-18 07:23:22,790 - Starting normalizer process...
+2024-12-18 07:23:24,222 - Normalizer process failed: Command '['python', 'app/normalizer.py']' returned non-zero exit status 1.
+2024-12-18 07:23:24,223 - Starting retrainer process...
+2024-12-18 07:23:30,160 - Retrainer process failed: Command '['python', 'app/retrainer.py']' returned non-zero exit status 1.
+2024-12-18 07:23:30,160 - Full retrain process completed.
+--------------------------------------------------
+2024-12-18 07:23:30,160 - Retrain scheduler started. Following runs will occur every 24 hours.
+2024-12-18 07:25:10,682 - Triggering initial retrain process...
+2024-12-18 07:25:10,684 - Starting full retrain process...
+2024-12-18 07:25:10,686 - Starting normalizer process...
+2024-12-18 07:25:11,882 - Normalizer process completed successfully.
+2024-12-18 07:25:11,883 - Starting retrainer process...
+2024-12-18 07:25:16,782 - Retrainer process failed: Command '['python', 'app/retrainer.py']' returned non-zero exit status 1.
+2024-12-18 07:25:16,784 - Full retrain process completed.
+--------------------------------------------------
+2024-12-18 07:25:16,784 - Retrain scheduler started. Following runs will occur every 24 hours.
+2024-12-18 07:29:47,739 - Triggering initial retrain process...
+2024-12-18 07:29:47,742 - Starting full retrain process...
+2024-12-18 07:29:47,742 - Starting normalizer process...
+2024-12-18 07:29:49,050 - Normalizer process completed successfully.
+2024-12-18 07:29:49,050 - Starting retrainer process...
+2024-12-18 07:29:53,880 - Retrainer process failed: Command '['python', 'app/retrainer.py']' returned non-zero exit status 1.
+2024-12-18 07:29:53,881 - Full retrain process completed.
+--------------------------------------------------
+2024-12-18 07:29:53,882 - Retrain scheduler started. Following runs will occur every 24 hours.
+2024-12-18 07:34:42,391 - Triggering initial retrain process...
+2024-12-18 07:34:42,393 - Starting full retrain process...
+2024-12-18 07:34:42,396 - Starting normalizer process...
+2024-12-18 07:34:43,333 - Normalizer process completed successfully.
+2024-12-18 07:34:43,334 - Normalizer completed. Proceeding to retrainer.
+2024-12-18 07:34:43,334 - Starting retrainer process...
+2024-12-18 07:34:49,534 - Retrainer process failed: Command '['python', 'app/retrainer.py']' returned non-zero exit status 1.
+2024-12-18 07:34:49,535 - Full retrain process completed.
+--------------------------------------------------
+2024-12-18 07:34:49,535 - Retrain scheduler started. Following runs will occur every 24 hours.
+2024-12-18 07:39:02,359 - Triggering initial retrain process...
+2024-12-18 07:39:02,360 - Starting full retrain process...
+2024-12-18 07:39:02,360 - Starting normalizer process...
+2024-12-18 07:39:03,591 - Normalizer process completed successfully.
+2024-12-18 07:39:03,592 - Normalizer completed. Proceeding to retrainer.
+2024-12-18 07:39:03,592 - Starting retrainer process...
+2024-12-18 07:39:09,120 - Retrainer process failed: Command '['python', 'app/retrainer.py']' returned non-zero exit status 1.
+2024-12-18 07:39:09,122 - Full retrain process completed.
+--------------------------------------------------
+2024-12-18 07:39:09,122 - Scheduling next retrain process in 24 hours.
+2024-12-18 07:40:10,121 - Triggering initial retrain process...
+2024-12-18 07:40:10,122 - Starting full retrain process...
+2024-12-18 07:40:10,122 - Starting normalizer process...
+2024-12-18 07:40:11,333 - Normalizer process completed successfully.
+2024-12-18 07:40:11,334 - Normalizer completed. Proceeding to retrainer.
+2024-12-18 07:40:11,334 - Starting retrainer process...
+2024-12-18 07:40:25,618 - Retrainer process completed successfully.
+2024-12-18 07:40:25,618 - Retrainer stdout: Epoch [10/50], Loss: 0.6098
+Epoch [20/50], Loss: 0.5267
+Epoch [30/50], Loss: 0.4477
+Epoch [40/50], Loss: 0.3690
+Epoch [50/50], Loss: 0.2950
+Accuracy: 75.00%
+Model saved to app/models/forecasting_model.pth
+ARIMA Model Summary:
+                               SARIMAX Results                                
+==============================================================================
+Dep. Variable:          total_expense   No. Observations:                 1622
+Model:                 ARIMA(5, 1, 0)   Log Likelihood              -11376.447
+Date:                Wed, 18 Dec 2024   AIC                          22764.895
+Time:                        07:40:21   BIC                          22797.240
+Sample:                             0   HQIC                         22776.898
+                               - 1622                                         
+Covariance Type:                  opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+ar.L1         -0.9134      0.025    -36.109      0.000      -0.963      -0.864
+ar.L2         -0.7061      0.031    -22.565      0.000      -0.767      -0.645
+ar.L3         -0.5488      0.034    -16.064      0.000      -0.616      -0.482
+ar.L4         -0.3613      0.033    -11.049      0.000      -0.425      -0.297
+ar.L5         -0.1788      0.025     -7.258      0.000      -0.227      -0.131
+sigma2      7.302e+04   2018.084     36.182      0.000    6.91e+04     7.7e+04
+===================================================================================
+Ljung-Box (L1) (Q):                   0.68   Jarque-Bera (JB):               345.99
+Prob(Q):                              0.41   Prob(JB):                         0.00
+Heteroskedasticity (H):               1.02   Skew:                             0.92
+Prob(H) (two-sided):                  0.81   Kurtosis:                         4.31
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
+ARIMA Forecast:
+1622    369.104275
+1623    354.599461
+1624    259.013642
+1625    236.311994
+1626    218.196991
+1627    251.364670
+1628    283.447818
+1629    265.960198
+1630    251.681110
+1631    250.720308
+1632    253.755049
+1633    260.078920
+1634    260.973366
+1635    256.926185
+1636    255.596086
+1637    256.350375
+1638    257.367691
+1639    257.938115
+1640    257.489099
+1641    256.903475
+1642    256.939944
+1643    257.178555
+1644    257.316473
+1645    257.293879
+1646    257.177729
+1647    257.131353
+1648    257.175627
+1649    257.215177
+1650    257.219246
+1651    257.200831
+Name: predicted_mean, dtype: float64
+Prophet Forecast:
+             ds        yhat  yhat_lower  yhat_upper
+1622 2025-12-31  330.102452   15.476302  656.441248
+1623 2026-01-01  362.065792   38.647263  675.808129
+1624 2026-01-02  357.202548   24.512879  689.462283
+1625 2026-01-03  366.856839   32.813287  708.267285
+1626 2026-01-04  396.492675   84.620928  739.458799
+1627 2026-01-05  370.500963   59.713083  691.303052
+1628 2026-01-06  365.218973   40.103629  681.964263
+1629 2026-01-07  341.245459   -3.198980  654.501617
+1630 2026-01-08  371.847153   37.953825  670.679697
+1631 2026-01-09  365.620355   40.974993  693.488870
+1632 2026-01-10  373.975245   55.645443  686.444368
+1633 2026-01-11  402.435876  105.640396  716.762987
+1634 2026-01-12  375.445225   62.315324  678.499934
+1635 2026-01-13  369.382979   29.604193  692.803790
+1636 2026-01-14  344.879331   16.210442  663.265958
+1637 2026-01-15  375.220521   63.374320  709.923890
+1638 2026-01-16  369.009884   35.696086  673.717155
+1639 2026-01-17  377.652036   79.858935  695.764637
+1640 2026-01-18  406.653173  109.460291  718.532756
+1641 2026-01-19  380.426828   75.303474  684.629421
+1642 2026-01-20  375.312751   76.430958  711.748954
+1643 2026-01-21  351.892156   53.729270  660.275947
+1644 2026-01-22  383.395003   61.871630  696.206305
+1645 2026-01-23  378.363034   55.303321  680.406235
+1646 2026-01-24  388.136143   51.724796  689.958482
+1647 2026-01-25  418.154949   95.665647  760.505794
+1648 2026-01-26  392.768883   85.869768  711.697554
+1649 2026-01-27  388.257359   59.053934  707.542923
+1650 2026-01-28  365.147206   31.427141  684.238022
+1651 2026-01-29  396.621955   63.976059  712.325897
+Figure(1200x600)
+
+2024-12-18 07:40:25,618 - Retrainer stderr: 07:40:22 - cmdstanpy - INFO - Chain [1] start processing
+07:40:22 - cmdstanpy - INFO - Chain [1] done processing
+
+2024-12-18 07:40:25,619 - Model Accuracy: Accuracy: 75.00%
+2024-12-18 07:40:25,619 - Full retrain process completed.
+--------------------------------------------------
+2024-12-18 07:40:25,619 - Scheduling next retrain process in 24 hours.

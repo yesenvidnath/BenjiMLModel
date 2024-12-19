@@ -1,0 +1,13 @@
+Flask
+flask-ngrok
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+matplotlib
+prophet
+statsmodels
+xgboost
+python-dotenv
+retrain_scheduler

@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Spending Analysis</title>
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        /* Custom chart container size */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            height: 300px; /* Limit chart height */
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">User Spending Analysis</h1>
+        
+        <!-- User Input Form -->
+        <div class="card p-3 mb-4">
+            <form id="userForm">
+                <label for="user_id" class="form-label">Enter User ID:</label>
+                <div class="input-group">
+                    <input type="number" id="user_id" name="user_id" class="form-control" placeholder="Enter User ID" required>
+                    <button type="submit" class="btn btn-primary">Analyze</button>
+                </div>
+            </form>
+        </div>
+
+        <!-- Results Display -->
+        <div id="results" class="mt-4">
+            <h3>Spending Summary</h3>
+            <p id="insights">Please enter a User ID to get the results.</p>
+
+            <!-- Weekly, Monthly, Yearly Table -->
+            <table class="table table-bordered mt-3" id="summaryTable">
+                <thead>
+                    <tr>
+                        <th>Time Period</th>
+                        <th>Total Spending ($)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Weekly</td>
+                        <td id="weeklySpending">-</td>
+                    </tr>
+                    <tr>
+                        <td>Monthly</td>
+                        <td id="monthlySpending">-</td>
+                    </tr>
+                    <tr>
+                        <td>Yearly</td>
+                        <td id="yearlySpending">-</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <!-- Chart Section -->
+            <h3 class="text-center">Spending Charts</h3>
+
+            <!-- Weekly Chart -->
+            <div class="chart-container">
+                <canvas id="weeklyChart"></canvas>
+            </div>
+
+            <!-- Monthly Chart -->
+            <div class="chart-container">
+                <canvas id="monthlyChart"></canvas>
+            </div>
+
+            <!-- Yearly Chart -->
+            <div class="chart-container">
+                <canvas id="yearlyChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap 5 JS Bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        const form = document.getElementById("userForm");
+        const insightsElement = document.getElementById("insights");
+        const weeklySpendingElement = document.getElementById("weeklySpending");
+        const monthlySpendingElement = document.getElementById("monthlySpending");
+        const yearlySpendingElement = document.getElementById("yearlySpending");
+
+        let weeklyChart, monthlyChart, yearlyChart;
+
+        // Fetch user data and display results
+        form.addEventListener("submit", async function (e) {
+            e.preventDefault();
+
+            const userID = document.getElementById("user_id").value;
+
+            const response = await fetch("/api/analyze", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ user_id: parseInt(userID) })
+            });
+
+            const result = await response.json();
+
+            if (result.status === "success") {
+                const chartData = result.chart_data;
+
+                // Update the table
+                weeklySpendingElement.innerText = chartData.weekly.reduce((a, b) => a + b, 0).toFixed(2);
+                monthlySpendingElement.innerText = chartData.monthly.reduce((a, b) => a + b, 0).toFixed(2);
+                yearlySpendingElement.innerText = chartData.yearly.reduce((a, b) => a + b, 0).toFixed(2);
+
+                insightsElement.innerText = result.forecast;
+
+                // Render the charts
+                renderChart("weeklyChart", "Weekly Spending", chartData.weekly, 7);
+                renderChart("monthlyChart", "Monthly Spending", chartData.monthly, 30);
+                renderChart("yearlyChart", "Yearly Spending", chartData.yearly, 30);
+            } else {
+                insightsElement.innerText = "Error: " + result.message;
+            }
+        });
+
+        // Render charts
+        function renderChart(canvasID, label, data, limit) {
+            const ctx = document.getElementById(canvasID).getContext("2d");
+
+            // Check if the chart already exists and destroy it
+            if (window[canvasID] instanceof Chart) {
+                window[canvasID].destroy();
+            }
+
+            // Trim data to limit
+            const labels = Array.from({ length: limit }, (_, i) => `Day ${i + 1}`);
+            const chartData = data.slice(0, limit);
+
+            // Create new chart
+            window[canvasID] = new Chart(ctx, {
+                type: "line",
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: label,
+                        data: chartData,
+                        borderColor: "rgba(75, 192, 192, 1)",
+                        backgroundColor: "rgba(75, 192, 192, 0.2)",
+                        borderWidth: 2,
+                        pointRadius: 3,
+                        tension: 0.2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        x: { title: { display: true, text: "Days" } },
+                        y: { title: { display: true, text: "Spending ($)" } }
+                    },
+                    plugins: {
+                        legend: { display: true, position: "top" }
+                    }
+                }
+            });
+        }
+
+    </script>
+</body>
+</html>
