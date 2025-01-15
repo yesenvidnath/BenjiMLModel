@@ -1,0 +1,416 @@
+[
+  {
+    "user_ID": 1,
+    "user_name": "Michael Brown",
+    "user_email": "michael.brown@example.com",
+    "incomes": [
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      }
+    ],
+    "expenses": [
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 1,
+        "amount": 2000.0,
+        "description": "Tuition fee payment for a school or college",
+        "reason_text": "Tuition fee payment for a school or college",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 2,
+        "amount": 150.0,
+        "description": "Purchase of textbooks and study materials",
+        "reason_text": "Purchase of textbooks and study materials",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 3,
+        "amount": 300.0,
+        "description": "Online course or workshop fee",
+        "reason_text": "Online course or workshop fee",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 4,
+        "amount": 250.0,
+        "description": "Payment for car service or maintenance",
+        "reason_text": "Payment for car service or maintenance",
+        "category_name": "Transportation"
+      }
+    ]
+  },
+  {
+    "user_ID": 2,
+    "user_name": "Emma Johnson",
+    "user_email": "emma.johnson@example.com",
+    "incomes": [
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      }
+    ],
+    "expenses": [
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 1,
+        "amount": 2000.0,
+        "description": "Tuition fee payment for a school or college",
+        "reason_text": "Tuition fee payment for a school or college",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 2,
+        "amount": 150.0,
+        "description": "Purchase of textbooks and study materials",
+        "reason_text": "Purchase of textbooks and study materials",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 3,
+        "amount": 300.0,
+        "description": "Online course or workshop fee",
+        "reason_text": "Online course or workshop fee",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 4,
+        "amount": 250.0,
+        "description": "Payment for car service or maintenance",
+        "reason_text": "Payment for car service or maintenance",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 5,
+        "amount": 75.0,
+        "description": "Purchase of spare parts for a vehicle",
+        "reason_text": "Purchase of spare parts for a vehicle",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 7,
+        "amount": 100.0,
+        "description": "Purchase of party supplies (decorations, balloons)",
+        "reason_text": "Purchase of party supplies (decorations, balloons)",
+        "category_name": "Party and Fun"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 10,
+        "amount": 50.0,
+        "description": "Purchase of vegetables and fruits from a local market",
+        "reason_text": "Purchase of vegetables and fruits from a local market",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 11,
+        "amount": 30.0,
+        "description": "Payment for a meal at a restaurant",
+        "reason_text": "Payment for a meal at a restaurant",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 16,
+        "amount": 60.0,
+        "description": "Fuel purchase for a car",
+        "reason_text": "Fuel purchase for a car",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 18,
+        "amount": 15.0,
+        "description": "Ride-sharing service payment (e.g., Uber, Lyft)",
+        "reason_text": "Ride-sharing service payment (e.g., Uber, Lyft)",
+        "category_name": "Transportation"
+      }
+    ]
+  },
+  {
+    "user_ID": 3,
+    "user_name": "Michael Brown",
+    "user_email": "whobrown@example.com",
+    "incomes": [
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      }
+    ],
+    "expenses": [
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 19,
+        "amount": 120.0,
+        "description": "Purchase of toiletries and personal care products",
+        "reason_text": "Purchase of toiletries and personal care products",
+        "category_name": "Personal Care and Health"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 20,
+        "amount": 250.0,
+        "description": "Payment for a doctor's appointment",
+        "reason_text": "Payment for a doctor's appointment",
+        "category_name": "Personal Care and Health"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 21,
+        "amount": 75.0,
+        "description": "Buying prescription medicines from a pharmacy",
+        "reason_text": "Buying prescription medicines from a pharmacy",
+        "category_name": "Personal Care and Health"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 22,
+        "amount": 15.0,
+        "description": "Subscription fee for a streaming service (e.g., Netflix, Spotify)",
+        "reason_text": "Subscription fee for a streaming service (e.g., Netflix, Spotify)",
+        "category_name": "Entertainment and Leisure"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 23,
+        "amount": 20.0,
+        "description": "Payment for a movie ticket",
+        "reason_text": "Payment for a movie ticket",
+        "category_name": "Entertainment and Leisure"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 24,
+        "amount": 12.0,
+        "description": "Purchase of a book or magazine",
+        "reason_text": "Purchase of a book or magazine",
+        "category_name": "Entertainment and Leisure"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 25,
+        "amount": 500.0,
+        "description": "Initial down payment for an installment plan (e.g., electronics)",
+        "reason_text": "Initial down payment for an installment plan (e.g., electronics)",
+        "category_name": "Part Payment Purchases"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 26,
+        "amount": 50.0,
+        "description": "Monthly installment payment for a purchased item",
+        "reason_text": "Monthly installment payment for a purchased item",
+        "category_name": "Part Payment Purchases"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 28,
+        "amount": 300.0,
+        "description": "Monthly premium payment for life insurance",
+        "reason_text": "Monthly premium payment for life insurance",
+        "category_name": "Life Insurance and Financial Services"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 29,
+        "amount": 400.0,
+        "description": "Payment for health insurance premiums",
+        "reason_text": "Payment for health insurance premiums",
+        "category_name": "Life Insurance and Financial Services"
+      },
+      {
+        "expense_id": 4,
+        "expense_date": "2024-12-20 02:55:46",
+        "reason_id": null,
+        "amount": null,
+        "description": null,
+        "reason_text": null,
+        "category_name": null
+      },
+      {
+        "expense_id": 5,
+        "expense_date": "2024-12-20 04:04:51",
+        "reason_id": 34,
+        "amount": 200.0,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 6,
+        "expense_date": "2024-12-20 04:11:00",
+        "reason_id": 34,
+        "amount": 200.0,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      }
+    ]
+  }
+]

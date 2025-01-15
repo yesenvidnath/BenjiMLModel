@@ -1,0 +1,6244 @@
+{
+  "user_id": 1,
+  "history": [
+    {
+      "timestamp": "2024-12-20T19:44:50.027693",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 341.11629311855023,
+          "monthly_expense": 1482.1502936001007,
+          "yearly_expense": 17738.04724216461
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751,
+              2046.6977587113015,
+              2387.8140518298515,
+              2728.930344948402,
+              3070.0466380669523,
+              3411.162931185502,
+              3752.2792243040526,
+              4093.395517422603
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T19:44:50.024230"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:44:50.041974",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 341.11629311855023,
+          "monthly_expense": 1482.1502936001007,
+          "yearly_expense": 17738.04724216461
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751,
+              2046.6977587113015,
+              2387.8140518298515,
+              2728.930344948402,
+              3070.0466380669523,
+              3411.162931185502,
+              3752.2792243040526,
+              4093.395517422603
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:53:40.477673",
+      "data": {
+        "status": "error",
+        "message": "ARIMA.__init__() got an unexpected keyword argument 'method'"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:55:00.593691",
+      "data": {
+        "status": "error",
+        "message": "Schur decomposition solver error."
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:56:51.237694",
+      "data": {
+        "status": "error",
+        "message": "Not enough data points for ARIMA model."
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:58:16.518973",
+      "data": {
+        "status": "error",
+        "message": "Not enough data points for ARIMA model."
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:59:49.074272",
+      "data": {
+        "status": "error",
+        "message": "Not enough data points for moving average."
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:01:25.489436",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 4.8076923076923075,
+          "monthly_expense": 20.833333333333332,
+          "yearly_expense": 250.0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:01:25.485603"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:01:25.515145",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 4.8076923076923075,
+          "monthly_expense": 20.833333333333332,
+          "yearly_expense": 250.0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:03:18.814983",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 4.8076923076923075,
+          "monthly_expense": 20.833333333333332,
+          "yearly_expense": 250.0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:03:18.811355"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:03:18.826892",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 4.8076923076923075,
+          "monthly_expense": 20.833333333333332,
+          "yearly_expense": 250.0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075,
+              4.8076923076923075
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923,
+              19.23076923076923
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:03:59.750441",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 341.11629311855023,
+          "monthly_expense": 1482.1502936001007,
+          "yearly_expense": 17738.04724216461
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751,
+              2046.6977587113015,
+              2387.8140518298515,
+              2728.930344948402,
+              3070.0466380669523,
+              3411.162931185502,
+              3752.2792243040526,
+              4093.395517422603
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:03:59.745758"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:03:59.763028",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 341.11629311855023,
+          "monthly_expense": 1482.1502936001007,
+          "yearly_expense": 17738.04724216461
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751,
+              2046.6977587113015,
+              2387.8140518298515,
+              2728.930344948402,
+              3070.0466380669523,
+              3411.162931185502,
+              3752.2792243040526,
+              4093.395517422603
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:14:58.331520",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate of 99.50%. Excellent financial discipline! Your spending for the next week would be 341.12, and for the next month would be 1482.15. For the entire year, it would be 17738.05. Keep up the great work!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 341.11629311855023,
+          "monthly_expense": 1482.1502936001007,
+          "yearly_expense": 17738.04724216461
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751,
+              2046.6977587113015,
+              2387.8140518298515,
+              2728.930344948402,
+              3070.0466380669523,
+              3411.162931185502,
+              3752.2792243040526,
+              4093.395517422603
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:14:58.327033",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "99.50%",
+        "spending_percentage": "0.50%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:14:58.344068",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate of 99.50%. Excellent financial discipline! Your spending for the next week would be 341.12, and for the next month would be 1482.15. For the entire year, it would be 17738.05. Keep up the great work!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 341.11629311855023,
+          "monthly_expense": 1482.1502936001007,
+          "yearly_expense": 17738.04724216461
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751,
+              2046.6977587113015,
+              2387.8140518298515,
+              2728.930344948402,
+              3070.0466380669523,
+              3411.162931185502,
+              3752.2792243040526,
+              4093.395517422603
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "99.50%",
+        "spending_percentage": "0.50%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:30:35.941275",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 0,
+          "weekly_expense": 341.11629311855023,
+          "monthly_expense": 1482.1502936001007,
+          "yearly_expense": 17738.04724216461
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751,
+              2046.6977587113015,
+              2387.8140518298515,
+              2728.930344948402,
+              3070.0466380669523,
+              3411.162931185502,
+              3752.2792243040526,
+              4093.395517422603
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:30:35.932132",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:30:35.957254",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 0,
+          "weekly_expense": 341.11629311855023,
+          "monthly_expense": 1482.1502936001007,
+          "yearly_expense": 17738.04724216461
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751,
+              2046.6977587113015,
+              2387.8140518298515,
+              2728.930344948402,
+              3070.0466380669523,
+              3411.162931185502,
+              3752.2792243040526,
+              4093.395517422603
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:36:52.576936",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate of 99.50%. Excellent financial discipline! Your spending for the next week would be 341.12, and for the next month would be 1482.15. For the entire year, it would be 17738.05. Keep up the great work!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 341.11629311855023,
+          "monthly_expense": 1482.1502936001007,
+          "yearly_expense": 17738.04724216461
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751,
+              2046.6977587113015,
+              2387.8140518298515,
+              2728.930344948402,
+              3070.0466380669523,
+              3411.162931185502,
+              3752.2792243040526,
+              4093.395517422603
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:36:52.572762",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "99.50%",
+        "spending_percentage": "0.50%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:36:52.594696",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "You are saving at a high rate of 99.50%. Excellent financial discipline! Your spending for the next week would be 341.12, and for the next month would be 1482.15. For the entire year, it would be 17738.05. Keep up the great work!",
+        "forecast": {
+          "total_income": 50000.0,
+          "total_expense": 250.0,
+          "weekly_expense": 341.11629311855023,
+          "monthly_expense": 1482.1502936001007,
+          "yearly_expense": 17738.04724216461
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023,
+              341.11629311855023
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              341.11629311855023,
+              682.2325862371005,
+              1023.3488793556508,
+              1364.465172474201,
+              1705.581465592751,
+              2046.6977587113015,
+              2387.8140518298515,
+              2728.930344948402,
+              3070.0466380669523,
+              3411.162931185502,
+              3752.2792243040526,
+              4093.395517422603
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "99.50%",
+        "spending_percentage": "0.50%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:28:31.543261",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T22:28:31.538835",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:28:31.560037",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:56:10.948414",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T22:56:10.944678",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:56:10.963626",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:08:19.684289",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:08:19.679930",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:08:19.702451",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:12:43.935329",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:12:43.930709",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:12:43.950835",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:15:09.274938",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:15:09.271393",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:15:09.290887",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:21:55.210364",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:21:55.206193",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:21:55.227135",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:34:05.517969",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:34:05.514169",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:34:05.533874",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:37:01.839586",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:37:01.835371",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:37:01.857589",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:38:50.089567",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:38:50.085208",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:38:50.107169",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:39:15.100139",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:39:15.095701",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:39:15.117222",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:41:29.681929",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:41:29.677237",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:41:29.703658",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:43:33.394908",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:43:33.389585",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:43:33.413726",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:44:58.562664",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:44:58.558009",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:44:58.586677",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:09:51.513184",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:09:51.508494",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:09:51.531818",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:17:23.048334",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:17:23.044825",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:17:23.074122",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:38:51.720474",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:38:51.716283",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:38:51.738474",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:52:11.333394",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:52:11.328566",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:52:11.353034",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:53:33.546611",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:53:33.541828",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:53:33.565205",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:05.434966",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:55:05.430672",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:05.454012",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:54.228843",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:55:54.225026",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:54.248680",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T01:13:33.760765",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T01:13:33.754864",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T01:13:33.790158",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T01:17:14.863608",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T01:17:14.857570",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T01:17:14.893960",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T13:00:19.143788",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T13:00:18.667275",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T13:00:19.171667",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:49:30.245562",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T14:49:30.237290",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:49:30.278336",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:51:14.009241",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T14:51:14.002822",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:51:14.042996",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-23T04:25:32.818530",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-23T04:25:32.473918",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-23T04:25:32.849820",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-28T21:42:34.464953",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-28T21:42:34.042107",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-28T21:42:34.486559",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-30T23:04:09.469729",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "analysis_date": "2024-12-30T23:04:09.136191",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-30T23:04:09.501200",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 20.466977587113014,
+          "monthly_expense": 88.92901761600604,
+          "yearly_expense": 1064.2828345298767
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014,
+              20.466977587113014
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              20.466977587113014,
+              40.93395517422603,
+              61.40093276133904,
+              81.86791034845206,
+              102.33488793556506,
+              122.80186552267809,
+              143.2688431097911,
+              163.7358206969041,
+              184.20279828401712,
+              204.66977587113013,
+              225.13675345824316,
+              245.60373104535617
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2025-01-01T07:52:30.003839",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 23.151714068192703,
+          "monthly_expense": 100.59419762629729,
+          "yearly_expense": 1203.8891315460205
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              23.151714068192703,
+              23.151714068192703,
+              23.151714068192703,
+              23.151714068192703,
+              23.151714068192703,
+              23.151714068192703,
+              23.151714068192703
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              23.151714068192703,
+              46.303428136385406,
+              69.45514220457811,
+              92.60685627277081,
+              115.75857034096352
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              23.151714068192703,
+              46.303428136385406,
+              69.45514220457811,
+              92.60685627277081,
+              115.75857034096352,
+              138.91028440915622,
+              162.06199847734894,
+              185.21371254554163,
+              208.36542661373431,
+              231.51714068192703,
+              254.66885475011975,
+              277.82056881831244
+            ]
+          }
+        },
+        "analysis_date": "2025-01-01T07:52:29.611435",
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2025-01-01T07:52:30.027851",
+      "data": {
+        "user_id": 1,
+        "thread_id": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.json",
+        "insights": "No expense data available.",
+        "forecast": {
+          "total_income": 3000.0,
+          "total_expense": 0,
+          "weekly_expense": 23.151714068192703,
+          "monthly_expense": 100.59419762629729,
+          "yearly_expense": 1203.8891315460205
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              23.151714068192703,
+              23.151714068192703,
+              23.151714068192703,
+              23.151714068192703,
+              23.151714068192703,
+              23.151714068192703,
+              23.151714068192703
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              23.151714068192703,
+              46.303428136385406,
+              69.45514220457811,
+              92.60685627277081,
+              115.75857034096352
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              23.151714068192703,
+              46.303428136385406,
+              69.45514220457811,
+              92.60685627277081,
+              115.75857034096352,
+              138.91028440915622,
+              162.06199847734894,
+              185.21371254554163,
+              208.36542661373431,
+              231.51714068192703,
+              254.66885475011975,
+              277.82056881831244
+            ]
+          }
+        },
+        "forecasting_message": "There were no expenses recorded.",
+        "saving_percentage": "100.00%",
+        "spending_percentage": "0.00%"
+      }
+    }
+  ]
+}

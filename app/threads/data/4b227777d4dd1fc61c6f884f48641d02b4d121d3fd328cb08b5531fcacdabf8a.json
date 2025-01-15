@@ -1,0 +1,4849 @@
+{
+  "user_id": 4,
+  "history": [
+    {
+      "timestamp": "2024-12-20T22:28:31.666539",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T22:28:31.663757",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:28:31.675919",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:56:11.062368",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T22:56:11.059501",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:56:11.072780",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:08:19.842822",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:08:19.839764",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:08:19.855301",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:12:44.073902",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:12:44.071423",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:12:44.085456",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:15:09.409288",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:15:09.406288",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:15:09.420079",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:21:55.344770",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:21:55.341530",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:21:55.359223",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:34:05.659651",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:34:05.656195",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:34:05.673749",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:37:01.978563",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:37:01.975330",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:37:01.990976",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:38:50.232914",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:38:50.230481",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:38:50.244931",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:39:15.262337",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:39:15.259865",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:39:15.275753",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:41:29.870487",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:41:29.866509",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:41:29.889772",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:43:33.562823",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:43:33.558889",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:43:33.576479",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:44:58.761347",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:44:58.757628",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:44:58.778407",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:09:51.665588",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:09:51.662267",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:09:51.679329",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:17:23.202253",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:17:23.198561",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:17:23.217084",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:38:51.859059",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:38:51.855526",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:38:51.874284",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:52:11.478111",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:52:11.474980",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:52:11.496433",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:53:33.700348",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:53:33.696886",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:53:33.715544",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:05.595991",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:55:05.591748",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:05.613491",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:54.387874",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:55:54.383904",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:54.403680",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T01:17:15.102665",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T01:17:15.097634",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T01:17:15.126063",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T13:00:20.504793",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T13:00:20.117377",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T13:00:20.529644",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:49:30.341644",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T14:49:30.334961",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:49:30.364246",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:51:14.118221",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T14:51:14.109441",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:51:14.145778",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-23T04:25:33.265813",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-23T04:25:32.883626",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-23T04:25:33.289514",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-28T21:42:36.036302",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-28T21:42:35.534547",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-28T21:42:36.053708",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-30T23:04:10.631055",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2024-12-30T23:04:10.384826",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2024-12-30T23:04:10.654226",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2025-01-01T07:52:31.142378",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "analysis_date": "2025-01-01T07:52:30.716558",
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    },
+    {
+      "timestamp": "2025-01-01T07:52:31.162486",
+      "data": {
+        "user_id": 4,
+        "thread_id": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a.json",
+        "insights": "No income or expense data available.",
+        "forecast": {
+          "total_income": 0,
+          "total_expense": 0,
+          "weekly_expense": 0,
+          "monthly_expense": 0.0,
+          "yearly_expense": 0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "forecasting_message": "There were no incomes or expenses recorded.",
+        "saving_percentage": "0.00%",
+        "spending_percentage": "0.00%"
+      }
+    }
+  ]
+}

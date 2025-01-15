@@ -1,0 +1,6244 @@
+{
+  "user_idA": 3,
+  "history": [
+    {
+      "timestamp": "2024-12-20T19:44:50.122694",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T19:44:50.119777"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:44:50.134224",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:53:40.545957",
+      "data": {
+        "status": "error",
+        "message": "ARIMA.__init__() got an unexpected keyword argument 'method'"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:55:01.028629",
+      "data": {
+        "status": "error",
+        "message": "too many indices for array: array is 0-dimensional, but 1 were indexed"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:56:51.287668",
+      "data": {
+        "status": "error",
+        "message": "too many indices for array: array is 0-dimensional, but 1 were indexed"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:58:16.593592",
+      "data": {
+        "status": "error",
+        "message": "Not enough data points for ARIMA model."
+      }
+    },
+    {
+      "timestamp": "2024-12-20T19:59:49.218435",
+      "data": {
+        "status": "error",
+        "message": "Not enough data points for moving average."
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:01:25.594832",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 41.19230769230769,
+          "monthly_expense": 178.5,
+          "yearly_expense": 2142.0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:01:25.591425"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:01:25.609679",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 41.19230769230769,
+          "monthly_expense": 178.5,
+          "yearly_expense": 2142.0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:03:18.906821",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 41.19230769230769,
+          "monthly_expense": 178.5,
+          "yearly_expense": 2142.0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:03:18.903501"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:03:18.918592",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 41.19230769230769,
+          "monthly_expense": 178.5,
+          "yearly_expense": 2142.0
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769,
+              41.19230769230769
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077,
+              164.76923076923077
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:03:59.834338",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:03:59.828949"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:03:59.846235",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate. Excellent financial discipline!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:14:58.400345",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:14:58.397088",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:14:58.412309",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:30:36.030027",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:30:36.026720",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:30:36.044085",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:36:52.670209",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T20:36:52.666730",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T20:36:52.685325",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:28:31.623880",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T22:28:31.619873",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:28:31.636771",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:56:11.028419",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T22:56:11.025056",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T22:56:11.041269",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:08:19.796184",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:08:19.792556",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:08:19.813373",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:12:44.019265",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:12:44.015773",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:12:44.034626",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:15:09.372956",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:15:09.369096",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:15:09.386861",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:21:55.304107",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:21:55.300225",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:21:55.318554",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:34:05.615659",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:34:05.600494",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:34:05.632956",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:37:01.938708",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:37:01.935182",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:37:01.954565",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:38:50.194489",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:38:50.190817",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:38:50.209740",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:39:15.222392",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:39:15.218683",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:39:15.238833",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:41:29.809950",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:41:29.805650",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:41:29.834698",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:43:33.509726",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:43:33.506185",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:43:33.527601",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:44:58.702360",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-20T23:44:58.697708",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-20T23:44:58.725951",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:09:51.619773",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:09:51.615323",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:09:51.639034",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:17:23.155538",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:17:23.151571",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:17:23.173401",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:38:51.814627",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:38:51.810463",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:38:51.832883",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:52:11.432267",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:52:11.428195",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:52:11.450390",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:53:33.644675",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:53:33.640696",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:53:33.671033",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:05.546763",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:55:05.542715",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:05.567474",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:54.337468",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T00:55:54.332988",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T00:55:54.357648",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T01:13:33.921904",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T01:13:33.916331",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T01:13:33.950928",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T01:17:15.028514",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T01:17:15.022279",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T01:17:15.059980",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T13:00:20.056144",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T13:00:19.645171",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T13:00:20.083625",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:49:30.170696",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T14:49:30.163793",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:49:30.200381",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:51:13.929089",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "analysis_date": "2024-12-21T14:51:13.922151",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-21T14:51:13.963099",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 94.51%. Excellent financial discipline! Your spending for the next week would be 266.07, and for the next month would be 1156.08. For the entire year, it would be 13835.68. Keep up the great work!",
+        "forecast": {
+          "total_income": 39000.0,
+          "total_expense": 2142.0,
+          "weekly_expense": 266.0707086324692,
+          "monthly_expense": 1156.0772290080786,
+          "yearly_expense": 13835.676848888397
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692,
+              266.0707086324692
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              266.0707086324692,
+              532.1414172649384,
+              798.2121258974075,
+              1064.2828345298767,
+              1330.3535431623459,
+              1596.424251794815,
+              1862.4949604272842,
+              2128.5656690597534,
+              2394.6363776922226,
+              2660.7070863246918,
+              2926.777794957161,
+              3192.84850358963
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "94.51%",
+        "spending_percentage": "5.49%"
+      }
+    },
+    {
+      "timestamp": "2024-12-23T04:25:32.372090",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 83.23%. Excellent financial discipline! Your spending for the next week would be 593.54, and for the next month would be 2578.94. For the entire year, it would be 30864.20. Keep up the great work!",
+        "forecast": {
+          "total_income": 87000.0,
+          "total_expense": 14586.0,
+          "weekly_expense": 593.5423500262774,
+          "monthly_expense": 2578.941510864175,
+          "yearly_expense": 30864.202201366425
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              593.5423500262774,
+              593.5423500262774,
+              593.5423500262774,
+              593.5423500262774,
+              593.5423500262774,
+              593.5423500262774,
+              593.5423500262774
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              593.5423500262774,
+              1187.0847000525548,
+              1780.6270500788323,
+              2374.1694001051096,
+              2967.711750131387
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              593.5423500262774,
+              1187.0847000525548,
+              1780.6270500788323,
+              2374.1694001051096,
+              2967.711750131387,
+              3561.2541001576647,
+              4154.7964501839415,
+              4748.338800210219,
+              5341.881150236497,
+              5935.423500262774,
+              6528.965850289052,
+              7122.508200315329
+            ]
+          }
+        },
+        "analysis_date": "2024-12-23T04:25:32.053517",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "83.23%",
+        "spending_percentage": "16.77%"
+      }
+    },
+    {
+      "timestamp": "2024-12-23T04:25:32.413069",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 83.23%. Excellent financial discipline! Your spending for the next week would be 593.54, and for the next month would be 2578.94. For the entire year, it would be 30864.20. Keep up the great work!",
+        "forecast": {
+          "total_income": 87000.0,
+          "total_expense": 14586.0,
+          "weekly_expense": 593.5423500262774,
+          "monthly_expense": 2578.941510864175,
+          "yearly_expense": 30864.202201366425
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              593.5423500262774,
+              593.5423500262774,
+              593.5423500262774,
+              593.5423500262774,
+              593.5423500262774,
+              593.5423500262774,
+              593.5423500262774
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              593.5423500262774,
+              1187.0847000525548,
+              1780.6270500788323,
+              2374.1694001051096,
+              2967.711750131387
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              593.5423500262774,
+              1187.0847000525548,
+              1780.6270500788323,
+              2374.1694001051096,
+              2967.711750131387,
+              3561.2541001576647,
+              4154.7964501839415,
+              4748.338800210219,
+              5341.881150236497,
+              5935.423500262774,
+              6528.965850289052,
+              7122.508200315329
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "83.23%",
+        "spending_percentage": "16.77%"
+      }
+    },
+    {
+      "timestamp": "2024-12-28T21:42:35.484884",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 74.62%. Excellent financial discipline! Your spending for the next week would be 695.88, and for the next month would be 3023.59. For the entire year, it would be 36185.62. Keep up the great work!",
+        "forecast": {
+          "total_income": 102000.0,
+          "total_expense": 25887.0,
+          "weekly_expense": 695.8772379618424,
+          "monthly_expense": 3023.586598944205,
+          "yearly_expense": 36185.61637401581
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              695.8772379618424,
+              1391.7544759236848,
+              2087.6317138855275,
+              2783.5089518473696,
+              3479.386189809212
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              695.8772379618424,
+              1391.7544759236848,
+              2087.6317138855275,
+              2783.5089518473696,
+              3479.386189809212,
+              4175.263427771055,
+              4871.140665732897,
+              5567.017903694739,
+              6262.8951416565815,
+              6958.772379618424,
+              7654.649617580267,
+              8350.52685554211
+            ]
+          }
+        },
+        "analysis_date": "2024-12-28T21:42:34.980091",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "74.62%",
+        "spending_percentage": "25.38%"
+      }
+    },
+    {
+      "timestamp": "2024-12-28T21:42:35.509335",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 74.62%. Excellent financial discipline! Your spending for the next week would be 695.88, and for the next month would be 3023.59. For the entire year, it would be 36185.62. Keep up the great work!",
+        "forecast": {
+          "total_income": 102000.0,
+          "total_expense": 25887.0,
+          "weekly_expense": 695.8772379618424,
+          "monthly_expense": 3023.586598944205,
+          "yearly_expense": 36185.61637401581
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              695.8772379618424,
+              1391.7544759236848,
+              2087.6317138855275,
+              2783.5089518473696,
+              3479.386189809212
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              695.8772379618424,
+              1391.7544759236848,
+              2087.6317138855275,
+              2783.5089518473696,
+              3479.386189809212,
+              4175.263427771055,
+              4871.140665732897,
+              5567.017903694739,
+              6262.8951416565815,
+              6958.772379618424,
+              7654.649617580267,
+              8350.52685554211
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "74.62%",
+        "spending_percentage": "25.38%"
+      }
+    },
+    {
+      "timestamp": "2024-12-30T23:04:10.314285",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 74.62%. Excellent financial discipline! Your spending for the next week would be 695.88, and for the next month would be 3023.59. For the entire year, it would be 36185.62. Keep up the great work!",
+        "forecast": {
+          "total_income": 102000.0,
+          "total_expense": 25887.0,
+          "weekly_expense": 695.8772379618424,
+          "monthly_expense": 3023.586598944205,
+          "yearly_expense": 36185.61637401581
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              695.8772379618424,
+              1391.7544759236848,
+              2087.6317138855275,
+              2783.5089518473696,
+              3479.386189809212
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              695.8772379618424,
+              1391.7544759236848,
+              2087.6317138855275,
+              2783.5089518473696,
+              3479.386189809212,
+              4175.263427771055,
+              4871.140665732897,
+              5567.017903694739,
+              6262.8951416565815,
+              6958.772379618424,
+              7654.649617580267,
+              8350.52685554211
+            ]
+          }
+        },
+        "analysis_date": "2024-12-30T23:04:09.969898",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "74.62%",
+        "spending_percentage": "25.38%"
+      }
+    },
+    {
+      "timestamp": "2024-12-30T23:04:10.348069",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 74.62%. Excellent financial discipline! Your spending for the next week would be 695.88, and for the next month would be 3023.59. For the entire year, it would be 36185.62. Keep up the great work!",
+        "forecast": {
+          "total_income": 102000.0,
+          "total_expense": 25887.0,
+          "weekly_expense": 695.8772379618424,
+          "monthly_expense": 3023.586598944205,
+          "yearly_expense": 36185.61637401581
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424,
+              695.8772379618424
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              695.8772379618424,
+              1391.7544759236848,
+              2087.6317138855275,
+              2783.5089518473696,
+              3479.386189809212
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              695.8772379618424,
+              1391.7544759236848,
+              2087.6317138855275,
+              2783.5089518473696,
+              3479.386189809212,
+              4175.263427771055,
+              4871.140665732897,
+              5567.017903694739,
+              6262.8951416565815,
+              6958.772379618424,
+              7654.649617580267,
+              8350.52685554211
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "74.62%",
+        "spending_percentage": "25.38%"
+      }
+    },
+    {
+      "timestamp": "2025-01-01T07:52:30.656303",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 74.62%. Excellent financial discipline! Your spending for the next week would be 787.16, and for the next month would be 3420.20. For the entire year, it would be 40932.23. Keep up the great work!",
+        "forecast": {
+          "total_income": 102000.0,
+          "total_expense": 25887.0,
+          "weekly_expense": 787.1582783185519,
+          "monthly_expense": 3420.2027192941077,
+          "yearly_expense": 40932.2304725647
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              787.1582783185519,
+              787.1582783185519,
+              787.1582783185519,
+              787.1582783185519,
+              787.1582783185519,
+              787.1582783185519,
+              787.1582783185519
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              787.1582783185519,
+              1574.3165566371038,
+              2361.4748349556558,
+              3148.6331132742075,
+              3935.7913915927593
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              787.1582783185519,
+              1574.3165566371038,
+              2361.4748349556558,
+              3148.6331132742075,
+              3935.7913915927593,
+              4722.9496699113115,
+              5510.107948229863,
+              6297.266226548415,
+              7084.424504866967,
+              7871.582783185519,
+              8658.74106150407,
+              9445.899339822623
+            ]
+          }
+        },
+        "analysis_date": "2025-01-01T07:52:30.650682",
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "74.62%",
+        "spending_percentage": "25.38%"
+      }
+    },
+    {
+      "timestamp": "2025-01-01T07:52:30.681804",
+      "data": {
+        "user_id": 3,
+        "thread_id": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce.json",
+        "insights": "You are saving at a high rate of 74.62%. Excellent financial discipline! Your spending for the next week would be 787.16, and for the next month would be 3420.20. For the entire year, it would be 40932.23. Keep up the great work!",
+        "forecast": {
+          "total_income": 102000.0,
+          "total_expense": 25887.0,
+          "weekly_expense": 787.1582783185519,
+          "monthly_expense": 3420.2027192941077,
+          "yearly_expense": 40932.2304725647
+        },
+        "chart_data": {
+          "weekly": {
+            "x": [
+              "Day 1",
+              "Day 2",
+              "Day 3",
+              "Day 4",
+              "Day 5",
+              "Day 6",
+              "Day 7"
+            ],
+            "y": [
+              787.1582783185519,
+              787.1582783185519,
+              787.1582783185519,
+              787.1582783185519,
+              787.1582783185519,
+              787.1582783185519,
+              787.1582783185519
+            ]
+          },
+          "monthly": {
+            "x": [
+              "Week 0",
+              "Week 1",
+              "Week 2",
+              "Week 3",
+              "Week 4"
+            ],
+            "y": [
+              787.1582783185519,
+              1574.3165566371038,
+              2361.4748349556558,
+              3148.6331132742075,
+              3935.7913915927593
+            ]
+          },
+          "yearly": {
+            "x": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "Apr",
+              "May",
+              "Jun",
+              "Jul",
+              "Aug",
+              "Sep",
+              "Oct",
+              "Nov",
+              "Dec"
+            ],
+            "y": [
+              787.1582783185519,
+              1574.3165566371038,
+              2361.4748349556558,
+              3148.6331132742075,
+              3935.7913915927593,
+              4722.9496699113115,
+              5510.107948229863,
+              6297.266226548415,
+              7084.424504866967,
+              7871.582783185519,
+              8658.74106150407,
+              9445.899339822623
+            ]
+          }
+        },
+        "forecasting_message": "Your financial path shines bright with robust savings. Keep up the great work!",
+        "saving_percentage": "74.62%",
+        "spending_percentage": "25.38%"
+      }
+    }
+  ]
+}

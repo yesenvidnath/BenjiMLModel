@@ -1,0 +1,981 @@
+[
+  {
+    "user_ID": 1,
+    "user_name": "Michael Brown",
+    "user_email": "michael.brown@example.com",
+    "incomes": [
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      }
+    ],
+    "expenses": []
+  },
+  {
+    "user_ID": 2,
+    "user_name": "Emma Johnson",
+    "user_email": "emma.johnson@example.com",
+    "incomes": [
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      },
+      {
+        "source_name": "Freelance Work",
+        "amount": 2000.0,
+        "frequency": "monthly",
+        "description": "Freelance writing projects"
+      }
+    ],
+    "expenses": [
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 1,
+        "amount": 2000.0,
+        "description": "Tuition fee payment for a school or college",
+        "reason_text": "Tuition fee payment for a school or college",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 2,
+        "amount": 150.0,
+        "description": "Purchase of textbooks and study materials",
+        "reason_text": "Purchase of textbooks and study materials",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 3,
+        "amount": 300.0,
+        "description": "Online course or workshop fee",
+        "reason_text": "Online course or workshop fee",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 4,
+        "amount": 250.0,
+        "description": "Payment for car service or maintenance",
+        "reason_text": "Payment for car service or maintenance",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 5,
+        "amount": 75.0,
+        "description": "Purchase of spare parts for a vehicle",
+        "reason_text": "Purchase of spare parts for a vehicle",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 7,
+        "amount": 100.0,
+        "description": "Purchase of party supplies (decorations, balloons)",
+        "reason_text": "Purchase of party supplies (decorations, balloons)",
+        "category_name": "Party and Fun"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 10,
+        "amount": 50.0,
+        "description": "Purchase of vegetables and fruits from a local market",
+        "reason_text": "Purchase of vegetables and fruits from a local market",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 11,
+        "amount": 30.0,
+        "description": "Payment for a meal at a restaurant",
+        "reason_text": "Payment for a meal at a restaurant",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 16,
+        "amount": 60.0,
+        "description": "Fuel purchase for a car",
+        "reason_text": "Fuel purchase for a car",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 2,
+        "expense_date": "2024-12-11 02:07:23",
+        "reason_id": 18,
+        "amount": 15.0,
+        "description": "Ride-sharing service payment (e.g., Uber, Lyft)",
+        "reason_text": "Ride-sharing service payment (e.g., Uber, Lyft)",
+        "category_name": "Transportation"
+      }
+    ]
+  },
+  {
+    "user_ID": 3,
+    "user_name": "Michael Brown",
+    "user_email": "whobrown@example.com",
+    "incomes": [
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      },
+      {
+        "source_name": "Teaching",
+        "amount": 3000.0,
+        "frequency": "monthly",
+        "description": "Online teaching job"
+      }
+    ],
+    "expenses": [
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 19,
+        "amount": 120.0,
+        "description": "Purchase of toiletries and personal care products",
+        "reason_text": "Purchase of toiletries and personal care products",
+        "category_name": "Personal Care and Health"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 20,
+        "amount": 250.0,
+        "description": "Payment for a doctor's appointment",
+        "reason_text": "Payment for a doctor's appointment",
+        "category_name": "Personal Care and Health"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 21,
+        "amount": 75.0,
+        "description": "Buying prescription medicines from a pharmacy",
+        "reason_text": "Buying prescription medicines from a pharmacy",
+        "category_name": "Personal Care and Health"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 22,
+        "amount": 15.0,
+        "description": "Subscription fee for a streaming service (e.g., Netflix, Spotify)",
+        "reason_text": "Subscription fee for a streaming service (e.g., Netflix, Spotify)",
+        "category_name": "Entertainment and Leisure"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 23,
+        "amount": 20.0,
+        "description": "Payment for a movie ticket",
+        "reason_text": "Payment for a movie ticket",
+        "category_name": "Entertainment and Leisure"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 24,
+        "amount": 12.0,
+        "description": "Purchase of a book or magazine",
+        "reason_text": "Purchase of a book or magazine",
+        "category_name": "Entertainment and Leisure"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 25,
+        "amount": 500.0,
+        "description": "Initial down payment for an installment plan (e.g., electronics)",
+        "reason_text": "Initial down payment for an installment plan (e.g., electronics)",
+        "category_name": "Part Payment Purchases"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 26,
+        "amount": 50.0,
+        "description": "Monthly installment payment for a purchased item",
+        "reason_text": "Monthly installment payment for a purchased item",
+        "category_name": "Part Payment Purchases"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 28,
+        "amount": 300.0,
+        "description": "Monthly premium payment for life insurance",
+        "reason_text": "Monthly premium payment for life insurance",
+        "category_name": "Life Insurance and Financial Services"
+      },
+      {
+        "expense_id": 3,
+        "expense_date": "2024-12-11 02:08:50",
+        "reason_id": 29,
+        "amount": 400.0,
+        "description": "Payment for health insurance premiums",
+        "reason_text": "Payment for health insurance premiums",
+        "category_name": "Life Insurance and Financial Services"
+      },
+      {
+        "expense_id": 4,
+        "expense_date": "2024-12-20 02:55:46",
+        "reason_id": null,
+        "amount": null,
+        "description": null,
+        "reason_text": null,
+        "category_name": null
+      },
+      {
+        "expense_id": 5,
+        "expense_date": "2024-12-20 04:04:51",
+        "reason_id": 34,
+        "amount": 200.0,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 6,
+        "expense_date": "2024-12-20 04:11:00",
+        "reason_id": 34,
+        "amount": 200.0,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 7,
+        "expense_date": "2024-12-22 16:32:26",
+        "reason_id": 19,
+        "amount": 120.0,
+        "description": "Purchase of toiletries and personal care products",
+        "reason_text": "Purchase of toiletries and personal care products",
+        "category_name": "Personal Care and Health"
+      },
+      {
+        "expense_id": 7,
+        "expense_date": "2024-12-22 16:32:26",
+        "reason_id": 20,
+        "amount": 250.0,
+        "description": "Payment for a doctor's appointment",
+        "reason_text": "Payment for a doctor's appointment",
+        "category_name": "Personal Care and Health"
+      },
+      {
+        "expense_id": 7,
+        "expense_date": "2024-12-22 16:32:26",
+        "reason_id": 21,
+        "amount": 75.0,
+        "description": "Buying prescription medicines from a pharmacy",
+        "reason_text": "Buying prescription medicines from a pharmacy",
+        "category_name": "Personal Care and Health"
+      },
+      {
+        "expense_id": 7,
+        "expense_date": "2024-12-22 16:32:26",
+        "reason_id": 22,
+        "amount": 15.0,
+        "description": "Subscription fee for a streaming service (e.g., Netflix, Spotify)",
+        "reason_text": "Subscription fee for a streaming service (e.g., Netflix, Spotify)",
+        "category_name": "Entertainment and Leisure"
+      },
+      {
+        "expense_id": 7,
+        "expense_date": "2024-12-22 16:32:26",
+        "reason_id": 23,
+        "amount": 20.0,
+        "description": "Payment for a movie ticket",
+        "reason_text": "Payment for a movie ticket",
+        "category_name": "Entertainment and Leisure"
+      },
+      {
+        "expense_id": 7,
+        "expense_date": "2024-12-22 16:32:26",
+        "reason_id": 24,
+        "amount": 12.0,
+        "description": "Purchase of a book or magazine",
+        "reason_text": "Purchase of a book or magazine",
+        "category_name": "Entertainment and Leisure"
+      },
+      {
+        "expense_id": 7,
+        "expense_date": "2024-12-22 16:32:26",
+        "reason_id": 25,
+        "amount": 500.0,
+        "description": "Initial down payment for an installment plan (e.g., electronics)",
+        "reason_text": "Initial down payment for an installment plan (e.g., electronics)",
+        "category_name": "Part Payment Purchases"
+      },
+      {
+        "expense_id": 7,
+        "expense_date": "2024-12-22 16:32:26",
+        "reason_id": 26,
+        "amount": 50.0,
+        "description": "Monthly installment payment for a purchased item",
+        "reason_text": "Monthly installment payment for a purchased item",
+        "category_name": "Part Payment Purchases"
+      },
+      {
+        "expense_id": 7,
+        "expense_date": "2024-12-22 16:32:26",
+        "reason_id": 28,
+        "amount": 300.0,
+        "description": "Monthly premium payment for life insurance",
+        "reason_text": "Monthly premium payment for life insurance",
+        "category_name": "Life Insurance and Financial Services"
+      },
+      {
+        "expense_id": 7,
+        "expense_date": "2024-12-22 16:32:26",
+        "reason_id": 29,
+        "amount": 400.0,
+        "description": "Payment for health insurance premiums",
+        "reason_text": "Payment for health insurance premiums",
+        "category_name": "Life Insurance and Financial Services"
+      },
+      {
+        "expense_id": 8,
+        "expense_date": "2024-12-22 20:40:38",
+        "reason_id": 14,
+        "amount": 1500.0,
+        "description": "Normal",
+        "reason_text": "Electricity bill payment",
+        "category_name": "Housing and Utilities"
+      },
+      {
+        "expense_id": 8,
+        "expense_date": "2024-12-22 20:40:38",
+        "reason_id": 10,
+        "amount": 600.0,
+        "description": "No",
+        "reason_text": "Purchase of vegetables and fruits from a local market",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 9,
+        "expense_date": "2024-12-23 03:24:13",
+        "reason_id": 34,
+        "amount": 2150.5,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 10,
+        "expense_date": "2024-12-23 03:42:17",
+        "reason_id": 34,
+        "amount": 2150.5,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 11,
+        "expense_date": "2024-12-23 03:51:25",
+        "reason_id": 34,
+        "amount": 2150.5,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 12,
+        "expense_date": "2024-12-23 04:05:34",
+        "reason_id": 34,
+        "amount": 2150.5,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 13,
+        "expense_date": "2024-12-23 10:04:13",
+        "reason_id": 13,
+        "amount": 6000.0,
+        "description": "Normal Rent",
+        "reason_text": "Monthly rent payment",
+        "category_name": "Housing and Utilities"
+      },
+      {
+        "expense_id": 13,
+        "expense_date": "2024-12-23 10:04:13",
+        "reason_id": 7,
+        "amount": 500.0,
+        "description": "Normal",
+        "reason_text": "Purchase of party supplies (decorations, balloons)",
+        "category_name": "Party and Fun"
+      },
+      {
+        "expense_id": 14,
+        "expense_date": "2024-12-25 01:44:06",
+        "reason_id": 34,
+        "amount": 2150.5,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 15,
+        "expense_date": "2024-12-25 01:44:20",
+        "reason_id": 34,
+        "amount": 2150.5,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 16,
+        "expense_date": "2024-12-27 00:40:42",
+        "reason_id": 4,
+        "amount": 500.0,
+        "description": "null",
+        "reason_text": "Payment for car service or maintenance",
+        "category_name": "Transportation"
+      }
+    ]
+  },
+  {
+    "user_ID": 4,
+    "user_name": "Sophia Williams",
+    "user_email": "sophia.williams@example.com",
+    "incomes": [],
+    "expenses": []
+  },
+  {
+    "user_ID": 6,
+    "user_name": "Yesen Smith",
+    "user_email": "ykandalama@gmail.com",
+    "incomes": [
+      {
+        "source_name": "Salary",
+        "amount": 5000.0,
+        "frequency": "monthly",
+        "description": "Monthly salary from job"
+      },
+      {
+        "source_name": "Part-time Job",
+        "amount": 1000.0,
+        "frequency": "monthly",
+        "description": "Part-time work at a cafe"
+      },
+      {
+        "source_name": "Freelance",
+        "amount": 1000.0,
+        "frequency": "monthly",
+        "description": "develop sites"
+      }
+    ],
+    "expenses": []
+  },
+  {
+    "user_ID": 8,
+    "user_name": "Malindha Deha",
+    "user_email": "malindha@gmail.com",
+    "incomes": [
+      {
+        "source_name": "Freelanse",
+        "amount": 500.0,
+        "frequency": "",
+        "description": "None"
+      },
+      {
+        "source_name": "Job",
+        "amount": 50000.0,
+        "frequency": "monthly",
+        "description": "null"
+      }
+    ],
+    "expenses": []
+  },
+  {
+    "user_ID": 9,
+    "user_name": "Wane Jhonsone",
+    "user_email": "wane@gmail.com",
+    "incomes": [
+      {
+        "source_name": "Freelasing",
+        "amount": 2000.0,
+        "frequency": "",
+        "description": "null"
+      },
+      {
+        "source_name": "Freelasing",
+        "amount": 2000.0,
+        "frequency": "",
+        "description": "null"
+      },
+      {
+        "source_name": "Freelasing",
+        "amount": 2000.0,
+        "frequency": "",
+        "description": "null"
+      },
+      {
+        "source_name": "Freelasing",
+        "amount": 2000.0,
+        "frequency": "",
+        "description": "null"
+      },
+      {
+        "source_name": "Freelasing",
+        "amount": 2000.0,
+        "frequency": "",
+        "description": "null"
+      },
+      {
+        "source_name": "Job",
+        "amount": 50000.0,
+        "frequency": "monthly",
+        "description": "Main income sourse"
+      },
+      {
+        "source_name": "Job",
+        "amount": 50000.0,
+        "frequency": "monthly",
+        "description": "Main income sourse"
+      },
+      {
+        "source_name": "Job",
+        "amount": 50000.0,
+        "frequency": "monthly",
+        "description": "Main income sourse"
+      },
+      {
+        "source_name": "Job",
+        "amount": 50000.0,
+        "frequency": "monthly",
+        "description": "Main income sourse"
+      },
+      {
+        "source_name": "Job",
+        "amount": 50000.0,
+        "frequency": "monthly",
+        "description": "Main income sourse"
+      },
+      {
+        "source_name": "Odd Jobs",
+        "amount": 5000.0,
+        "frequency": "",
+        "description": "null"
+      },
+      {
+        "source_name": "Odd Jobs",
+        "amount": 5000.0,
+        "frequency": "",
+        "description": "null"
+      },
+      {
+        "source_name": "Odd Jobs",
+        "amount": 5000.0,
+        "frequency": "",
+        "description": "null"
+      },
+      {
+        "source_name": "Odd Jobs",
+        "amount": 5000.0,
+        "frequency": "",
+        "description": "null"
+      },
+      {
+        "source_name": "Odd Jobs",
+        "amount": 5000.0,
+        "frequency": "",
+        "description": "null"
+      }
+    ],
+    "expenses": [
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 10,
+        "amount": 600.0,
+        "description": "null",
+        "reason_text": "Purchase of vegetables and fruits from a local market",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 7,
+        "amount": 600.0,
+        "description": "null",
+        "reason_text": "Purchase of party supplies (decorations, balloons)",
+        "category_name": "Party and Fun"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 4,
+        "amount": 200.0,
+        "description": "null",
+        "reason_text": "Payment for car service or maintenance",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 4,
+        "amount": 5000.0,
+        "description": "Main",
+        "reason_text": "Payment for car service or maintenance",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 18,
+        "expense_date": "2024-12-29 03:03:45",
+        "reason_id": 34,
+        "amount": 200.5,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 10,
+        "amount": 600.0,
+        "description": "null",
+        "reason_text": "Purchase of vegetables and fruits from a local market",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 7,
+        "amount": 600.0,
+        "description": "null",
+        "reason_text": "Purchase of party supplies (decorations, balloons)",
+        "category_name": "Party and Fun"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 4,
+        "amount": 200.0,
+        "description": "null",
+        "reason_text": "Payment for car service or maintenance",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 4,
+        "amount": 5000.0,
+        "description": "Main",
+        "reason_text": "Payment for car service or maintenance",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 18,
+        "expense_date": "2024-12-29 03:03:45",
+        "reason_id": 34,
+        "amount": 200.5,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 10,
+        "amount": 600.0,
+        "description": "null",
+        "reason_text": "Purchase of vegetables and fruits from a local market",
+        "category_name": "Groceries and Food"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 7,
+        "amount": 600.0,
+        "description": "null",
+        "reason_text": "Purchase of party supplies (decorations, balloons)",
+        "category_name": "Party and Fun"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 4,
+        "amount": 200.0,
+        "description": "null",
+        "reason_text": "Payment for car service or maintenance",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 17,
+        "expense_date": "2024-12-29 02:58:09",
+        "reason_id": 4,
+        "amount": 5000.0,
+        "description": "Main",
+        "reason_text": "Payment for car service or maintenance",
+        "category_name": "Transportation"
+      },
+      {
+        "expense_id": 18,
+        "expense_date": "2024-12-29 03:03:45",
+        "reason_id": 34,
+        "amount": 200.5,
+        "description": "Benji Professional Meetup Payment",
+        "reason_text": "Benji Professional Meetup",
+        "category_name": "Education"
+      }
+    ]
+  }
+]
